@@ -15,16 +15,16 @@ This is a game I made for my final project in Computer Science 10, I used GameMa
 * Hold Shift to sprint 
 * Press Space to attack, hitting enemies that are in front of your character
 ### Screen Shots
-* Cover
-
+* Cover 
+![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Rito%20Quest.jpg "Cover")
 * Grasslands
-
+![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Grasslands.PNG "Grasslands")
 * Desert
-
+![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Desert.PNG "Desert")
 * Tundra
-
+![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Tundra.PNG "Tundra")
 * Cave
-
+![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Cave.PNG "Cave")
 ### Video
 
 ### Computational Artifact
