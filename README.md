@@ -1,1 +1,32 @@
 # Rito-Quest
+## Ashtyn Banks
+### General Information
+This is a game I made for my final project in Computer Science 10, I used GameMaker: Studio 1.4 to create it. I used this tool because it is what my teacher recommended to me.
+### Instructions
+#### How to Launch the Game
+* Download the game from the link <a href="https://github.com/AB-Portfolio/Rito-Quest/blob/master/RitoQuest.exe">here</a>
+* Since this game is an .exe file, you may need to press More Information and then press Keep
+* Launch RitoQuest.exe
+#### Controls
+* Hold W to move up
+* Hold A to move left
+* Hold S to move down
+* Hold D to move right
+* Hold Shift to sprint 
+* Press Space to attack, hitting enemies that are in front of your character
+### Screen Shots
+* Cover
+
+* Grasslands
+
+* Desert
+
+* Tundra
+
+* Cave
+
+### Video
+
+### Computational Artifact
+
+### Abstractions, Algorithms, and Data
