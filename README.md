@@ -15,8 +15,6 @@ This is a game I made for my final project in Computer Science 10, I used GameMa
 * Hold Shift to sprint 
 * Press Space to attack, hitting enemies that are in front of your character
 ### Screen Shots
-* Cover 
-![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Rito%20Quest.jpg "Cover")
 * Grasslands
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Grasslands.PNG "Grasslands")
 * Desert
@@ -28,5 +26,5 @@ This is a game I made for my final project in Computer Science 10, I used GameMa
 ### Video
 
 ### Computational Artifact
-
+![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/RitoQuest.jpg "Cover")
 ### Abstractions, Algorithms, and Data
