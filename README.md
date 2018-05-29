@@ -15,13 +15,13 @@ This is a game I made for my final project in Computer Science 10, GameMaker: St
 * Hold Shift to sprint 
 * Press Space to attack, hitting enemies that are in front of your character
 ### Screenshots
-* Grasslands
+* Grasslands  <br />
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Grasslands.PNG "Grasslands")
-* Desert
+* Desert  <br />
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Desert.PNG "Desert")
-* Tundra
+* Tundra  <br />
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Tundra.PNG "Tundra")
-* Cave
+* Cave  <br />
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Cave.PNG "Cave")
 ### Video
 
