@@ -5,7 +5,7 @@ This is a game I made for my final project in Computer Science 10, GameMaker: St
 ### Instructions
 #### How to Launch the Game
 * Download the game from the link <a href="https://github.com/AB-Portfolio/Rito-Quest/blob/master/RitoQuest.exe">here</a>
-* Since this game is an .exe file, you may need to press More Information and then press Keep
+* Since this game is an .exe file, you may need to press *More Information* and then press *Keep*
 * Launch RitoQuest.exe
 #### Controls
 * Hold W to move up
