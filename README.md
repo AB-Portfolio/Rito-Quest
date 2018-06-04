@@ -26,5 +26,14 @@ This is a game I made for my final project in Computer Science 10, GameMaker: St
 ### Video
 Click to Open Video
 [![](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Thumbnail.jpg)](https://youtu.be/avcCyUMNyk8)
+### Purpose of the Program
+#### Society
+
+#### Culture
+
+#### Economy
+Gaming can be used to train employees before they are hired for a job.
+### Abstractions and Algorithms
+
 ### Computational Artifact
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/RitoQuest.jpg "Cover")
