@@ -24,7 +24,8 @@ This is a game I made for my final project in Computer Science 10, GameMaker: St
 * Cave  <br />
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Cave.PNG "Cave")
 ### Video
-
+Click to Open Video in New Tab
+[![](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Thumbnail.jpg)](https://youtu.be/avcCyUMNyk8)
 ### Computational Artifact
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/RitoQuest.jpg "Cover")
 ### Abstractions, Algorithms, and Data
