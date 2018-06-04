@@ -28,4 +28,3 @@ Click to Open Video in New Tab
 [![](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Thumbnail.jpg)](https://youtu.be/avcCyUMNyk8)
 ### Computational Artifact
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/RitoQuest.jpg "Cover")
-### Abstractions, Algorithms, and Data
