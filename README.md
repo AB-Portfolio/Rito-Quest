@@ -24,16 +24,16 @@ This is a game I made for my final project in Computer Science 10, GameMaker: St
 * Cave  <br />
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Cave.PNG "Cave")
 ### Video
-Click to Open Video
+#### Click the Image Below to Open Video
 [![](https://github.com/AB-Portfolio/Rito-Quest/blob/master/Thumbnail.jpg)](https://youtu.be/avcCyUMNyk8)
 ### Purpose of the Program
 #### Society
-
+Gaming ties into a lot of different technology. There is a diverse use to gaming in society, from something as small as flying drones to something as big as making repairs on the ISS through satellite and virtual reality.
 #### Culture
-
+Gaming is becoming a part of everyday culture. Over 1.2  billion people play video games, including around 50% of of youth and young adults.
 #### Economy
-Gaming can be used to train employees before they are hired for a job.
+Gaming can be used to train employees before they are hired for a job. This technique is already being used in many professions including: bartending, surgeons, electronic repairs, operators of large machinery, astronauts, and many other professions.
 ### Abstractions and Algorithms
-
+GameMaker: Studios has a lot of built in features to help create the algorithms and abstractions in this game. When you move through a door in the game, you aren't actually going into a new room, GameMaker just places objects and occasionally changes the background and moves your character to new coordinates so you have the perception of going through a new room, when in reality, you aren't. The same sort of thing happens with almost everything in the game, you have the perception of your character moving when you press W A S or D, but nothing actually moves.
 ### Computational Artifact
 ![alt text](https://github.com/AB-Portfolio/Rito-Quest/blob/master/RitoQuest.jpg "Cover")
